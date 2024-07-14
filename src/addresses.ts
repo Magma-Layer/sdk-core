@@ -104,14 +104,26 @@ const CELO_ADDRESSES: ChainAddresses = {
 }
 
 
+// const MAGMA_TESTNET_ADDRESSES: ChainAddresses = {
+//   v3CoreFactoryAddress: '0x8ddfB8944b498CBeE4D91aa86F850b4642C126F6',
+//   multicallAddress: '0x5e74D928CC499D3d2544B0286e392539739D4c60',
+//   quoterAddress: '0xd302fA2D75F1DD90022de324976723de8CC466b5',
+//   v3MigratorAddress: '0x423D34F72121bD5AB7A82C150d2269a2950F7803',
+//   nonfungiblePositionManagerAddress: '0x1D5f352e15D0eCD04811b8aD69c100651a4BdB4C',
+//   tickLensAddress: '0xb91363101889B01B3CEc42Ad0bE5ca2E6676f95b',
+//   swapRouter02Address: '0x7302ccF6e474A3148cC1a74dDc21BbaC3caAB805'
+
+// }
+
+
 const MAGMA_TESTNET_ADDRESSES: ChainAddresses = {
-  v3CoreFactoryAddress: '0x8ddfB8944b498CBeE4D91aa86F850b4642C126F6',
-  multicallAddress: '0x5e74D928CC499D3d2544B0286e392539739D4c60',
-  quoterAddress: '0xd302fA2D75F1DD90022de324976723de8CC466b5',
-  v3MigratorAddress: '0x423D34F72121bD5AB7A82C150d2269a2950F7803',
-  nonfungiblePositionManagerAddress: '0x1D5f352e15D0eCD04811b8aD69c100651a4BdB4C',
-  tickLensAddress: '0xb91363101889B01B3CEc42Ad0bE5ca2E6676f95b',
-  swapRouter02Address: '0x7302ccF6e474A3148cC1a74dDc21BbaC3caAB805'
+  v3CoreFactoryAddress: '0x2FDD14c77eDce94D11a18fe579Da550d82A15148',
+  multicallAddress: '0x49a57760aa426B47f9f40a9763eE5d1E20fC6Aa0',
+  quoterAddress: '0xf5A2F9Ea3cEf1a460A56b63Ef76E947Fb530bc33',
+  v3MigratorAddress: '0xbF5B3b84561A8F0657cB98DEE622C7FCa5c356C6',
+  nonfungiblePositionManagerAddress: '0x3Ef2927a884d2f4ecDEe6b32073740720031a650',
+  tickLensAddress: '0xeD7d73958E2c743610761b635dc4ed6A6CbE2a7a',
+  swapRouter02Address: '0x467DA5DF0012BAD24757E45ff4A245CF611c2e3C'
 
 }
 
